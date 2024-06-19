@@ -3,11 +3,11 @@ PROBLEM STATEMENT-
 Not enough accessible energy generating resources available to the general public
 
 IDEA
-From the POV of a common indian neighbourhood. Community parks and playgrounds are where people come together to have fun, exercise, and most importantly, make productive use of their pent-up energy. Our team visualised this space where we can transform 
+From the POV of a common indian neighbourhood. Community parks and playgrounds are where people come together to have fun, exercise, and most importantly, make productive use of their pent-up energy. Our team visualised this space where we can transform the energy people use while walking, and the energy that children use while playing.
 
-Prototypes and rejected versions
-Mention all the brainstorming points and different ideas discussed and the reason for selecting the final idea(add images and sketches)
-Paper prototype 
+
+PROTOTYPES AND REJECTED VERSIONS-
+We discussed the ideas of mats stacked on piezoelectric sensors, a slide using dynamo mechanisms, a swing attatched to a gear system, a trampoline which using solenoids put in the trampolines springs and a see-saw using a dynamo. We made paper prototypes of the swing, trampoline and seesaw. 
 {Images}
 
 Final Project idea /Solution
